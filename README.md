@@ -11,6 +11,22 @@
 * [Installing Git on Linux](https://www.lynda.com/Git-tutorials/Installing-Git-Linux/100222/111255-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3agit%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 * [Configuring Git](https://www.lynda.com/Git-tutorials/Configuring-Git/100222/111256-4.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3agit%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) 
 
+## Komandoer vi har brugt i dag:
+
+Dette skrives i Git Bash konsollen (windows)
+Terminalen (Mac)
+
+````
+  $ git init
+  $ git add .
+  $ git commit -m "besked"
+  $ git push origin master
+  
+````
+
+
+
+
 <!--
 ## Git Tutorials
 * [Git Tutorials](https://github.com/dat17v1/14_Git_Tutorials/blob/master/README.md) 
