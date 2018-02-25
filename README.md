@@ -13,7 +13,7 @@
 
 ## Komandoer vi har brugt i dag:
 
-Dette skrives i Git Bash konsollen (windows)
+Dette skrives i Git Bash konsollen (windows)    
 Terminalen (Mac)
 
 ````
