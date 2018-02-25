@@ -1,4 +1,4 @@
-# 14 Git & Github
+# 15 Git & Github
  Jeres Little Animal Horror Zoo opgave skal afleveres på _GitHub_.
  I dag skal i lære hvordan dette gøres.
 
