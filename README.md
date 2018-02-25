@@ -23,9 +23,19 @@ Terminalen (Mac)
   $ git push origin master
   
 ````
+Opret forbindelse til jeres online GitHub Repository    
 
+````
+  $ git remote add origin https://urlTilJeresGithubRepository
+  
+````
 
+Cloning af et eksisterende online Github Repository    
 
+````
+  $ git clone https://urlTilJeresGithubRepository
+  
+````
 
 <!--
 ## Git Tutorials
