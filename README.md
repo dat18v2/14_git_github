@@ -21,6 +21,7 @@
 ````
 
 
+### Git Komandoer
 
 Dette skrives i Git Bash konsollen (windows)    
 Terminalen (Mac)
