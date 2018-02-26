@@ -13,6 +13,15 @@
 
 ## Komandoer vi har brugt i dag:
 
+### Terminal/Console komandoer
+````
+  cd   // Change Directory
+  cd ..   // one folder back
+  pwd   // Print working directory
+````
+
+
+
 Dette skrives i Git Bash konsollen (windows)    
 Terminalen (Mac)
 
